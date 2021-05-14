@@ -18,7 +18,7 @@ from azure.iot.device.aio import ProvisioningDeviceClient
 from azure.iot.device import constant, Message, MethodResponse
 
 ## for DPS Testing
-model_id = "dtmi:laonpeople:lpedurec02m;1"
+model_id = "dtmi:<Input_CompanyName>:<Input_ModelName>;1"
 # For Multiple components
 import pnp_helper
 windows_device_info_component_name = "WindowsDeviceInfo"
