@@ -23,3 +23,4 @@ export IOTHUB_DEVICE_DPS_DEVICE_KEY=" Put your Device Key here"
 export IOTHUB_DEVICE_CONNECTION_STRING=""
 #export KEYPAD_INTERRUPT="DISABLE" #If KEYPAD_INTERRUPT set DISABLE, the program will never stop
 export KEYPAD_INTERRUPT="ENABLE" #If KEYPAD_INTERRUPT set ENABLE, you can stop the program by pressing 'q' key
+
