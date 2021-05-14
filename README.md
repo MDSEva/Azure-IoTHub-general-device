@@ -1,9 +1,8 @@
-# Getting Start
+# Modify the Parameter
 
 ## main.py
 1. Open main.py
 2. Find Line 21
-3. Modify the Parameter
 
 model_id = "dtmi:<Input_CompanyName>:<Input_ModelName>;1"
 
