@@ -33,4 +33,6 @@ export IOTHUB_DEVICE_CONNECTION_STRING="Put your IoT Hub Connection String Key h
 
 export KEYPAD_INTERRUPT="ENABLE" #If KEYPAD_INTERRUPT set ENABLE, you can stop the program by pressing 'q' key
 
+# Excute the code
+
 
