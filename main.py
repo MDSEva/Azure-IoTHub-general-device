@@ -1,7 +1,7 @@
 ################################################
-# LAON PEOPLE INC.
+# Hancom MDS Inc.
 # General Device Monitor with Azure IoT Hub
-# klee@laonpeople.com
+# essupport@hancommds.com
 ################################################
 import psutil
 import asyncio
